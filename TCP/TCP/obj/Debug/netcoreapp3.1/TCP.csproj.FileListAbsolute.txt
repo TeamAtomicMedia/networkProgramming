@@ -1,0 +1,13 @@
+/Users/emil/Projects/TCP/TCP/bin/Debug/netcoreapp3.1/TCP.deps.json
+/Users/emil/Projects/TCP/TCP/bin/Debug/netcoreapp3.1/TCP.runtimeconfig.json
+/Users/emil/Projects/TCP/TCP/bin/Debug/netcoreapp3.1/TCP.runtimeconfig.dev.json
+/Users/emil/Projects/TCP/TCP/bin/Debug/netcoreapp3.1/TCP.dll
+/Users/emil/Projects/TCP/TCP/bin/Debug/netcoreapp3.1/TCP.pdb
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.csproj.AssemblyReference.cache
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.AssemblyInfoInputs.cache
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.AssemblyInfo.cs
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.csproj.CoreCompileInputs.cache
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.dll
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.pdb
+/Users/emil/Projects/TCP/TCP/obj/Debug/netcoreapp3.1/TCP.genruntimeconfig.cache
