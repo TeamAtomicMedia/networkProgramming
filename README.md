@@ -69,6 +69,7 @@ From a pair of TCP Sockets built using the above functions we can see what is ac
 
 ### Wireshark
 <img width="1510" alt="Screenshot%202022-04-27%20at%2014 25 01" src="https://user-images.githubusercontent.com/104011332/176417349-25a350ce-f8e0-484b-8e63-3dd33968c691.png">
+
 ### Packets
 
 #### Packet 1
@@ -91,6 +92,7 @@ This packet acknowledges the previous packet.
 Requests a reset of the session.
 
 ## Connectionless
+
 ### UDP
 In the github repo, you will find an example of a UDP listener and UDP client. Notice the difference. No network stream is established and no client is accepted by the server. Using wireshark, what do you notice differently about the packets sent?
 
