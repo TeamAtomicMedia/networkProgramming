@@ -1,0 +1,13 @@
+/Users/emil/Projects/UDP/UDP/bin/Debug/netcoreapp3.1/UDP.deps.json
+/Users/emil/Projects/UDP/UDP/bin/Debug/netcoreapp3.1/UDP.runtimeconfig.json
+/Users/emil/Projects/UDP/UDP/bin/Debug/netcoreapp3.1/UDP.runtimeconfig.dev.json
+/Users/emil/Projects/UDP/UDP/bin/Debug/netcoreapp3.1/UDP.dll
+/Users/emil/Projects/UDP/UDP/bin/Debug/netcoreapp3.1/UDP.pdb
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.csproj.AssemblyReference.cache
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.AssemblyInfoInputs.cache
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.AssemblyInfo.cs
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.csproj.CoreCompileInputs.cache
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.dll
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.pdb
+/Users/emil/Projects/UDP/UDP/obj/Debug/netcoreapp3.1/UDP.genruntimeconfig.cache
