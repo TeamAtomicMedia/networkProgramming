@@ -1,0 +1,13 @@
+/Users/emil/Projects/genericUDPClient/genericUDPClient/bin/Debug/netcoreapp3.1/genericUDPClient.deps.json
+/Users/emil/Projects/genericUDPClient/genericUDPClient/bin/Debug/netcoreapp3.1/genericUDPClient.runtimeconfig.json
+/Users/emil/Projects/genericUDPClient/genericUDPClient/bin/Debug/netcoreapp3.1/genericUDPClient.runtimeconfig.dev.json
+/Users/emil/Projects/genericUDPClient/genericUDPClient/bin/Debug/netcoreapp3.1/genericUDPClient.dll
+/Users/emil/Projects/genericUDPClient/genericUDPClient/bin/Debug/netcoreapp3.1/genericUDPClient.pdb
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.csproj.AssemblyReference.cache
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.AssemblyInfoInputs.cache
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.AssemblyInfo.cs
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.csproj.CoreCompileInputs.cache
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.dll
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.pdb
+/Users/emil/Projects/genericUDPClient/genericUDPClient/obj/Debug/netcoreapp3.1/genericUDPClient.genruntimeconfig.cache
