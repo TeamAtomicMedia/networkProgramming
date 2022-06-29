@@ -70,12 +70,12 @@ From a pair of TCP Sockets built using the above functions we can see what is ac
 ### Wireshark
 <img width="1510" alt="Screenshot%202022-04-27%20at%2014 25 01" src="https://user-images.githubusercontent.com/104011332/176417349-25a350ce-f8e0-484b-8e63-3dd33968c691.png">
 ### Packets
+
 #### Packet 1
 The first packet contains the flag "SYN", this is used to SYNchronise sequence numbers to initiate the TCP connection .
 #### Packet 2
 The second packet contains the flags "SYN" and "ACK". The sequence number of the actual first data byte and the ACKnowledged number in the corresponding ACK are then this sequence number plus 1.
 #### Packet 3
-
 This packet is essentially the receipt of the client receiving the server's SYN message.
 #### Packet 4
 This packet tells the client the maximum amount of bytes the host can receive before it's buffer is full.
