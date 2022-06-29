@@ -94,5 +94,5 @@ Requests a reset of the session.
 ## Connectionless
 
 ### UDP
-In the github repo, you will find an example of a UDP listener and UDP client. Notice the difference. No network stream is established and no client is accepted by the server. Using wireshark, what do you notice differently about the packets sent?
+In the github repo, you will find an example of a simple UDP messaging application under the folder UDP. Notice the difference. No network stream is established and no client is accepted by the server. Using wireshark, what do you notice differently about the packets sent?
 
